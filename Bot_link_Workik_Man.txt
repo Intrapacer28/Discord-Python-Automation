@@ -1,0 +1,2 @@
+#Paste this link into your browser or into your server text channel directly to invite the bot to your server
+https://discord.com/api/oauth2/authorize?client_id=1184378792693731378&permissions=18530639555648&scope=bot
